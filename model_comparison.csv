@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1 Score,ROC-AUC
+Gradient Boosting,0.7996,0.6494,0.5348,0.5865,0.842
+Logistic Regression,0.7953,0.6387,0.5294,0.5789,0.8378
+Neural Network (Keras),0.7889,0.6351,0.484,0.5493,0.8339
+Random Forest,0.7889,0.6296,0.5,0.5574,0.819
